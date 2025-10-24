@@ -1,14 +1,14 @@
 #  Staj Gelişim Günlüğü: Yapay Zeka ve Otomasyon Çözümleri
 
-Bu depo, uzun dönem stajım boyunca edindiğim teknik bilgi, geliştirdiğim iş akışları (workflows), karşılaştığım zorluklar ve çözüm stratejilerimden oluşan kapsamlı bir **gelişim günlüğüdür**.
+Bu repo, uzun dönem stajım boyunca edindiğim teknik bilgi, geliştirdiğim iş akışları (workflows), karşılaştığım zorluklar ve çözüm stratejilerimden oluşan kapsamlı bir **gelişim günlüğüdür**.
 
 Amacım, bu süreçte öğrendiklerimi kalıcı bir **bilgi kaynağı** haline getirmek, teknik yetkinliklerimi belgelemek ve otomasyon/yapay zeka alanındaki pratik deneyimimi şeffaf bir şekilde paylaşmaktır.
 
 -----
 
-##  Depo Yapısı
+##  Repo Yapısı
 
-Bu depo, staj süresince odaklanılan konuları ve edinilen bilgileri kronolojik olarak takip etmenizi sağlayacak şekilde haftalık klasörlere ayrılmıştır.
+Bu Repo, staj süresince odaklanılan konuları ve edinilen bilgileri kronolojik olarak takip etmenizi sağlayacak şekilde haftalık klasörlere ayrılmıştır.
 
 ```
 .
