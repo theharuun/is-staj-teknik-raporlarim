@@ -19,9 +19,14 @@ Bu Repo, staj süresince odaklanılan konuları ve edinilen bilgileri kronolojik
 │   │   └── staj-gunlugu-2-hafta.md
 │   ├── 3.-hafta/
 │   │   └── staj-gunlugu-3-hafta.md
+│   ├── ...
 │   └── README.md
 │
 ├── Huawei-Staj/
+│   ├── 1. Yazılım Test Mühendisliğine İlk Adım STLC ile Tanışma ve Örneklerle Anlama
+│   ├── 2. Yazılım Testinin Prensipleri ve Test Metodolojileri – Derinlemesine Analiz
+│   ├── 3. Test Teknikleri – White Box & Black Box, Coverage ve Test Tasarım Yöntemleri
+│   ├── ...
 │   └── README.md
 │
 └── README.md   # Ana README (tüm repo açıklaması)
